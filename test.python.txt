@@ -1,0 +1,7 @@
+class demp:
+def _init_(self):
+    pass 
+    def test(self):
+    pront(_name_)
+    obj=demp
+    obj.tst()

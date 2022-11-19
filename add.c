@@ -2,9 +2,21 @@
 //#include <conio.h>
 int main()
 {
-int a=1,int b=3,int sum;
-sum=a+b;
-printf("sum of a+b",&sum);
-//scanf("%d",&a,&b)
+int a;
+int b;
+
+
+printf("enter a"); 
+scanf("  %d", &a);
+
+
+
+printf("enter b");
+scanf("%d", &b);
+
+
+
+int sum=a+b;
+printf("\nthe sum is : %d",sum) ;
 return 0;
 }
